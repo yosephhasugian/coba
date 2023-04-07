@@ -229,11 +229,11 @@
         </div>
         <br>
         <div class="card">
-          <h1 class="text-center">PINTU 9 -- GATE 9 </h1>
+          <h1 class="text-center">PINTU 7 -- GATE 7 </h1>
       </div>
       <br>
         <div class="card">
-          <h1 class="text-center">ドア 9 -- 문 9 </h1>
+          <h1 class="text-center">ドア 7 -- 문 7 </h1>
       </div>
         <br>
         <div class="card">
@@ -329,7 +329,7 @@
                   <img src="../assets/img/bus/jaketbus.jpeg" style="width:70%;" alt="img">
                     <hr class="bg-primary w-25 mx-auto mb-0">
                 </div>
-               
+                
 
             </div>
           </div>

@@ -31,9 +31,17 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('pintu4');
 	}
+	public function pintu7()
+	{
+		$this->load->view('pintu7');
+	}
 	public function pintu9()
 	{
 		$this->load->view('pintu9');
+	}
+	public function himbau()
+	{
+		$this->load->view('himbau');
 	}
 	
 	public function video()

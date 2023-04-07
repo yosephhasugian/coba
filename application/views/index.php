@@ -133,16 +133,16 @@ footer {
         </div>
   </div>
 <header>
-  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu1';return false;" onclick="openFullscreen();">Pintu1</button>
+  
   <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu2';return false;" onclick="openFullscreen();">Pintu2</button>
-  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu3';return false;" onclick="openFullscreen();">Pintu3</button>
+  
   <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu4';return false;" onclick="openFullscreen();">Pintu4</button>
-  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu5';return false;" onclick="openFullscreen();">Pintu5</button>
-  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu6';return false;" onclick="openFullscreen();">Pintu6</button>
+
   <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu7';return false;" onclick="openFullscreen();">Pintu7</button>
-  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu8';return false;" onclick="openFullscreen();">Pintu8</button>
+
   <button onClick="window.location.href = '<?php echo base_url();?>Welcome/pintu9';return false;" onclick="openFullscreen();">Pintu9</button>
   <button onClick="window.location.href = '<?php echo base_url();?>Welcome/video';return false;" onclick="openFullscreen(myvideo);" >Video</button>
+  <button onClick="window.location.href = '<?php echo base_url();?>Welcome/himbau';return false;" onclick="openFullscreen();" >Himbau</button>
 </header>
 <section>
   <div class="has-bg-img">

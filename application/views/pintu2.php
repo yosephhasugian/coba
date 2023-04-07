@@ -318,22 +318,23 @@
               <div class="row g-6">
                 <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                   
-                    <img src="../assets/img/bus/pemda_dki.jpg" style="width:20%;" alt="img">
+                    <img src="../assets/img/bus/pemda_dki.jpg" style="width:30%;" alt="img">
                     <hr class="bg-black w-25 mx-auto mb-0">
-                </div>
-                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
-                  <img src="../assets/img/bus/logo.jpeg" style="width:20%;" alt="img">
-                    <hr class="bg-black w-25 mx-auto mb-0">
-                </div>
-                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
-                  <img src="../assets/img/bus/jaketbus.jpeg" style="width:20%;" alt="img">
-                    <hr class="bg-primary w-25 mx-auto mb-0">
-                </div>
-                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
-                  <img src="../assets/img/bus/Logo_Dishub.png" style="width:20%;" alt="img">
-                    <hr class="bg-primary w-25 mx-auto mb-0">
                 </div>
 
+                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
+                  <img src="../assets/img/bus/Logo_Dishub.png" style="width:30%;" alt="img">
+                    <hr class="bg-primary w-25 mx-auto mb-0">
+                </div>
+                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
+                  <img src="../assets/img/bus/logo.jpeg" style="width:30%;" alt="img">
+                    <hr class="bg-black w-25 mx-auto mb-0">
+                </div>
+                <div class="col-sm-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
+                  <img src="../assets/img/bus/jaketbus.jpeg" style="width:30%;" alt="img">
+                    <hr class="bg-primary w-25 mx-auto mb-0">
+                </div>
+                </div>
             </div>
           </div>
     </div>
